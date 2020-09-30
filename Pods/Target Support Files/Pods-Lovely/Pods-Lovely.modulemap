@@ -1,0 +1,6 @@
+framework module Pods_Lovely {
+  umbrella header "Pods-Lovely-umbrella.h"
+
+  export *
+  module * { export * }
+}

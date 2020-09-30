@@ -1,0 +1,22 @@
+/* 
+  Localizable.strings
+  Lovely
+
+  Created by MacOS on 8/26/20.
+  Copyright © 2020 Tran Viet. All rights reserved.
+*/
+
+/* Walkthrought */
+"Slide1" = "Thế giới người yêu màu mỡ";
+"Slide2" = "Nhiều lựa chọn với giá cả hợp lý";
+"Slide3" = "Bảo mật thông tin tuyệt đối";
+"Slide4" = "Gia nhập cộng đồng dễ dàng";
+"SubTitle1" = "Tha hồ lựa chọn và trải nghiệm dịch vụ hèn hò với Lovely";
+"SubTitle2" = "Những idol mới nhú và các dịch vụ hèn hò siêu hấp dẫn";
+"SubTitle3" = "Tha hồ lựa chọn và trải nghiệm dịch vụ hèn hò với Lovely";
+"SubTitle4" = "Tha hồ lựa chọn và trải nghiệm dịch vụ hèn hò với Lovely";
+"Start" = "Bắt đầu";
+
+/* Error */
+"Internet" = "No internet avaialbe";
+"ApiError" = "Something went wrong!";

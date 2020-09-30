@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>527540530277-88q7ni6hf32k2huv0amasi5fda6jf626.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.527540530277-88q7ni6hf32k2huv0amasi5fda6jf626</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCF-JNAuFmxe5c2kZFp8w3xeipAlzWbv6c</string>
+	<key>GCM_SENDER_ID</key>
+	<string>527540530277</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tranviet.Lovely</string>
+	<key>PROJECT_ID</key>
+	<string>lovely-795b0</string>
+	<key>STORAGE_BUCKET</key>
+	<string>lovely-795b0.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:527540530277:ios:66be0f0e20330c95466a8c</string>
+	<key>DATABASE_URL</key>
+	<string>https://lovely-795b0.firebaseio.com</string>
+</dict>
+</plist>

@@ -1,0 +1,44 @@
+PODS:
+  - IHKeyboardAvoiding (4.7)
+  - InputBarAccessoryView (5.1.0):
+    - InputBarAccessoryView/Core (= 5.1.0)
+  - InputBarAccessoryView/Core (5.1.0)
+  - MessageKit (3.3.0):
+    - InputBarAccessoryView (~> 5.1.0)
+  - SDWebImage (5.8.4):
+    - SDWebImage/Core (= 5.8.4)
+  - SDWebImage/Core (5.8.4)
+  - Socket.IO-Client-Swift (15.1.0):
+    - Starscream (~> 3.1)
+  - Starscream (3.1.1)
+  - SwiftGifOrigin (1.7.0)
+
+DEPENDENCIES:
+  - IHKeyboardAvoiding
+  - MessageKit
+  - SDWebImage
+  - Socket.IO-Client-Swift
+  - SwiftGifOrigin
+
+SPEC REPOS:
+  trunk:
+    - IHKeyboardAvoiding
+    - InputBarAccessoryView
+    - MessageKit
+    - SDWebImage
+    - Socket.IO-Client-Swift
+    - Starscream
+    - SwiftGifOrigin
+
+SPEC CHECKSUMS:
+  IHKeyboardAvoiding: 4cae0880c3975feffa278495df894c5166e71ad0
+  InputBarAccessoryView: 19953f486a23e846e9487099f92bbe3456e46ce5
+  MessageKit: 1f07618183be6d92b648ba7a384aafa097362a00
+  SDWebImage: cf6922231e95550934da2ada0f20f2becf2ceba9
+  Socket.IO-Client-Swift: 7cb44c0ffb86e158cee32d0642d30ec5fdcf8f61
+  Starscream: 4bb2f9942274833f7b4d296a55504dcfc7edb7b0
+  SwiftGifOrigin: fbd6cf37afcfcf97a5c3db996ddc0492e5c5c145
+
+PODFILE CHECKSUM: 5e6bcd1bdf78484de4bf953ef73a71171e058e1f
+
+COCOAPODS: 1.9.1
