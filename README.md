@@ -1,7 +1,7 @@
 # lus_ios
 # Ứng dụng hẹn hò, thuê người yêu
 <h3> Các tính năng chính: </h3>
- + Hiển thị toàn bộ thông tin Idol: theo rating, recommed và theo khu vực 
+ + Hiển thị toàn bộ thông tin Idol: theo rating, recommed và theo khu vực </hr>
  + Tìm kiếm Idol theo tên, khu vực, giá thuê,...
  + Gửi tin nhắn và trò chuyện với Idol
  + Xem bảng giá dịch vụ và đặt thuê Tdol
